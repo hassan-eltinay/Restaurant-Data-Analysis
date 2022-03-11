@@ -1,5 +1,5 @@
 # Data-Analysis-Repo
-Hello there ! Here you will find all the Data Analysis projects that I worked in
+Hello there ! Here you will find all the Data Analysis projects that I worked on
 
 
 - Restaurant Tips Analysis Project:
